@@ -1,7 +1,7 @@
 # tibco-jms-spring-example
 Example of using Tibco as a JMS bus for sending a message
 
-For the application to work you need to have the following:
+##For the application to work you need to have the following:
 - tibco jars installed on your local maven repository
 - a bus running with defined user and queue
 
