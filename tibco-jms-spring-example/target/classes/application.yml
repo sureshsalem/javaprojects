@@ -1,0 +1,8 @@
+ems:
+  server: localhost
+  port: 7222
+  user: admin
+  password:
+  queue: test.queue
+  
+  
